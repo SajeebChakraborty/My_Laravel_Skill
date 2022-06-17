@@ -1,0 +1,19 @@
+***Laravel Project (Which I already completed)***
+
+-----------------------------------------------------------------------------
+
+1. Railway Ticket Management Project
+2. AIMS (Advance Institution Management) Project - Professional project at RedDevs Company
+3. Advance Coaching Management Project - Professional project at RedDevs Company
+4. Online Payment system 
+5. Tracking API
+6. RESTful API
+7. Library Management Project - University Project
+8. Nexmo Voice Call
+9. Real time SMS Notification
+
+***Laravel Project (Upcomming...)***
+
+-----------------------------------------------------------------------------
+1. POS
+2. E-commerce project

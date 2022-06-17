@@ -1,0 +1,35 @@
+***Laravel Topics (Which I already completed)***
+
+-----------------------------------------------------------------------------
+
+1. SSL Commerz Payment Gateway
+2. Download any table of database as execl, pdf or other formate by laravel
+3. Laravel Multi Auth using Passport package
+4. Laravel Multi Auth using Guards
+5. Email sending
+6. OTP(Sms) sending
+7. Dependent select box 
+8. Auth Package
+9. Laravel Middleware Handling
+10. MVC Pattern
+11. Session Handling
+12. Pop up Notification
+13. CRUD Operation by eloquent way
+14. CRUD Operation by query builder way
+15. API and RESTful API
+16. Understanding OOP(Object Oriented Programming)
+17. Nexmo Voice Call 
+18. Tracking API
+19. Automatically Database backup everyday in google drive 
+20. Server up down handling
+21. Dummy data set up by Laravel Seeder
+22. Hashing
+23. Form Validation
+24. DOM PDF
+25. QR Code generation
+26. Convert project as desktop app
+27. Laravel Pagination
+28. Laravel Localiazation
+29. Laravel Socialite
+30. Passing same variable data in each controllers and each views
+31. Laravel AJAX
